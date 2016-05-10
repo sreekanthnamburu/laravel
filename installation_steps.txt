@@ -1,0 +1,5 @@
+Step 1: Go to htdocs folder using the gitbash tool
+Step 2: Execute this commmad through gitbash -- git clone "https://github.com/sreekanthnamburu/laravel.git"
+Step 3: From the command line we need to enter into the test folder and execute this command "composer update"
+Step 4: Execute this url on browser and check laravel had installed or not "http://localhost/laravel/test/public". Here you can see the LARAVEL Name on this page.
+Step 5: If you want to see the log messages then execute this url on browser "http://localhost/laravel/test/public/admin" then logs will be created in the public folder and log file name is "myLog.log"
